@@ -1,0 +1,5 @@
+/JavaClasses/target/
+/JavaFundamentals/target/
+/JavaCollections/target/
+**/*.iml
+**/*.class
